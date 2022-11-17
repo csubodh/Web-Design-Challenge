@@ -12,3 +12,5 @@ The landing page is index.html
 The 4 plots pages are temp.html, humidity.html, cloudiness.html and wind.htmml
 The comparison.html that has 4 plots compared against latitude
 Finallly data.html has cities.csv data output from weather py challenge
+
+GitHub Pages link: https://csubodh.github.io/Web-Design-Challenge/Start%20Files/index.html
